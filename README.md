@@ -108,7 +108,6 @@ Miscellaneous :
 - [Prachi Rathod](https://github.com/PSRoth)
 - [Priyanshi Zala](https://github.com/2610zala)
 ## 🔗 Links
-[![resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](file:///C:/Users/Lovel/OneDrive/Desktop/Priyesha%20Docs/Priyesha-resume.pdf)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyesha-solanki)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyesha-solanki)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 
